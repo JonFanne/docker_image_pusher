@@ -2,6 +2,7 @@
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 mysql:8.2.0
+redis:7.2.5
 fireflyiii/core:version-6.1.15
 whyour/qinglong:2.17.7
 #支持指定架构
