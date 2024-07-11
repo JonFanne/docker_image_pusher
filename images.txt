@@ -5,5 +5,6 @@ mysql:8.2.0
 redis:7.2.5
 fireflyiii/core:version-6.1.15
 whyour/qinglong:2.17.7
+jumpserver/minio:RELEASE.2024-06-11T03-13-30Z
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
